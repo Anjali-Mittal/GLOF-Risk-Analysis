@@ -1,0 +1,29 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+glof-env/
+.ipynb_checkpoints/
+.env
+.streamlit/secrets.toml
+data/raw/
+*.tif
+*.tiff
+.DS_Store
+Thumbs.db

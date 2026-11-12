@@ -1,0 +1,3 @@
+lake_id,name,lat,lon,basin,inventory_year,area,label,on_official_list,hazard_rank,notes
+SPECIAL_SOUTH_LHONAK,South Lhonak,27.913,88.199,Tista,2005,0.977,1,literature,,Burst Oct 2023; assessed high hazard pre-event (Sattar et al. 2021)
+SPECIAL_THAME,Thame (Thyanbo),27.975,86.681,Koshi,2015,0.578,1,N,,Burst Aug 2024; not on any official list; blind-spot case

@@ -1,0 +1,9 @@
+feature,coef_std,boot_lo,boot_med,boot_hi,ci_excludes_0
+log_area,1.414,0.964,1.537,2.221,True
+growth_rate,0.002,-0.368,0.035,0.371,False
+acceleration,0.471,0.053,0.504,0.938,True
+slope_ring_mean_deg,0.108,-0.335,0.136,0.646,False
+steep_frac,0.129,-0.435,0.118,0.593,False
+rain_max5d_mm,0.719,0.2,0.766,1.386,True
+rain_extreme_days,0.052,-0.415,0.065,0.604,False
+rain_p95_wetday_mm,0.573,0.038,0.592,1.183,True
